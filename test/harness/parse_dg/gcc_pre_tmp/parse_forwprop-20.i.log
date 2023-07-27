@@ -1,0 +1,3 @@
+01-parse gcc_pre/forwprop-20.i succeeded (0.19 KLoC in 1.02 ms,  189.61 KLoC / s)
+'../../bin/CParse' 'gcc_pre/forwprop-20.i' +RTS '-t_stats.log' 
+<<ghc: 3602144 bytes, 4 GCs, 132636/211024 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.002 elapsed), 0.000 GC (0.001 elapsed) :ghc>>

@@ -1,0 +1,3 @@
+01-parse gcc_pre/struct-return-2_x.i succeeded (0.14 KLoC in 0.03 s,  4.35 KLoC / s)
+'../../bin/CParse' 'gcc_pre/struct-return-2_x.i' +RTS '-t_stats.log' 
+<<ghc: 84194672 bytes, 81 GCs, 1961291/5347896 avg/max bytes residency (5 samples), 12M in use, 0.000 INIT (0.000 elapsed), 0.016 MUT (0.017 elapsed), 0.018 GC (0.018 elapsed) :ghc>>

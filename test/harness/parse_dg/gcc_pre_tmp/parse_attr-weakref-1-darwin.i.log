@@ -1,0 +1,3 @@
+01-parse gcc_pre/attr-weakref-1-darwin.i succeeded (1.36 KLoC in 7.35 ms,  185.41 KLoC / s)
+'../../bin/CParse' 'gcc_pre/attr-weakref-1-darwin.i' +RTS '-t_stats.log' 
+<<ghc: 23073712 bytes, 22 GCs, 543474/1221896 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.005 MUT (0.005 elapsed), 0.004 GC (0.004 elapsed) :ghc>>

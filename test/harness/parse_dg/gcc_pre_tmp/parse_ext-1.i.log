@@ -1,0 +1,3 @@
+01-parse gcc_pre/ext-1.i succeeded (0.21 KLoC in 1.83 ms,  115.45 KLoC / s)
+'../../bin/CParse' 'gcc_pre/ext-1.i' +RTS '-t_stats.log' 
+<<ghc: 5128568 bytes, 5 GCs, 173632/293160 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

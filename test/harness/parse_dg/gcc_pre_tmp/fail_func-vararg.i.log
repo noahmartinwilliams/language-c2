@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/func-vararg.i succeeded
+    See result file: `gcc_pre_tmp/func-vararg343261-2.report'

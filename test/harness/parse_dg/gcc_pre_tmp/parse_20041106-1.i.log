@@ -1,0 +1,3 @@
+01-parse gcc_pre/20041106-1.i succeeded (2.44 KLoC in 9.07 ms,  268.57 KLoC / s)
+'../../bin/CParse' 'gcc_pre/20041106-1.i' +RTS '-t_stats.log' 
+<<ghc: 30704616 bytes, 30 GCs, 560122/1258824 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.006 MUT (0.006 elapsed), 0.004 GC (0.004 elapsed) :ghc>>

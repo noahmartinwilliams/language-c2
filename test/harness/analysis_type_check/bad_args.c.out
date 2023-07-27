@@ -1,0 +1,12 @@
+Decl: declaration f | function/external | void (int x) ("bad_args.c": line 1)
+Param: auto x :: int ("bad_args.c": line 1)
+Decl: function f | function/external | void (int x) ("bad_args.c": line 1)
+Decl: declaration g | function/external | void () ("bad_args.c": line 4)
+Decl: declaration h | function/external | void () ("bad_args.c": line 8)
+ScanFile: Semantic Error: [bad_args.c:5: (column 5) [ERROR]  >>> AST invariant violated
+  incorrect number of arguments
+,bad_args.c:9: (column 5) [ERROR]  >>> AST invariant violated
+  incorrect number of arguments
+]
+CallStack (from HasCallStack):
+  error, called at ScanFile.hs:61:27 in main:Main

@@ -1,0 +1,3 @@
+01-parse gcc_pre/anon-struct-9.i succeeded (0.14 KLoC in 0.02 s,  5.57 KLoC / s)
+'../../bin/CParse' 'gcc_pre/anon-struct-9.i' +RTS '-t_stats.log' 
+<<ghc: 90601272 bytes, 87 GCs, 1949705/5297376 avg/max bytes residency (5 samples), 12M in use, 0.000 INIT (0.000 elapsed), 0.013 MUT (0.014 elapsed), 0.013 GC (0.013 elapsed) :ghc>>

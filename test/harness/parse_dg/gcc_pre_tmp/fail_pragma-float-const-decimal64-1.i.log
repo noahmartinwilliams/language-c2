@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/pragma-float-const-decimal64-1.i succeeded
+    See result file: `gcc_pre_tmp/pragma-float-const-decimal64-1344118-2.report'

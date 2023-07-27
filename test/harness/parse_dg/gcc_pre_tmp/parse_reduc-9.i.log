@@ -1,0 +1,3 @@
+01-parse gcc_pre/reduc-9.i succeeded (1.24 KLoC in 6.68 ms,  186.39 KLoC / s)
+'../../bin/CParse' 'gcc_pre/reduc-9.i' +RTS '-t_stats.log' 
+<<ghc: 19993880 bytes, 19 GCs, 540704/1218376 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.004 MUT (0.005 elapsed), 0.003 GC (0.003 elapsed) :ghc>>

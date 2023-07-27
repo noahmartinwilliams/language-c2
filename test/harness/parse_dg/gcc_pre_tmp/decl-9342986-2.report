@@ -1,0 +1,45 @@
+Failed to parse decl-9.c
+with message:
+Syntax error !The symbol `*' does not fit here. ("decl-9.c": line 4)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "decl-9.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "decl-9.c"
+
+
+
+w *x;
+
+int z;
+y
+  * z;
+
+int f1()
+{
+  int d, e;
+  d * e;
+  g * h;
+  g i;
+}
+
+typedef int a;
+
+int f2()
+{
+b: a: ;
+c: d e;
+
+   ;
+}
+
+void *f3()
+{
+  return x;
+}

@@ -1,0 +1,3 @@
+01-parse gcc_pre/scalar-by-value-5_y.i succeeded (0.03 KLoC in 7.37 ms,  4.21 KLoC / s)
+'../../bin/CParse' 'gcc_pre/scalar-by-value-5_y.i' +RTS '-t_stats.log' 
+<<ghc: 20846088 bytes, 20 GCs, 561066/1280464 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.004 MUT (0.005 elapsed), 0.004 GC (0.004 elapsed) :ghc>>

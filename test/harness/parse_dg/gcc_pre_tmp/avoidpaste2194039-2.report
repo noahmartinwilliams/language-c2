@@ -1,0 +1,18 @@
+Failed to parse avoidpaste2.c
+with message:
+Syntax error !The symbol `:' does not fit here. ("avoidpaste2.c": line 27)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "avoidpaste2.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "avoidpaste2.c"
+# 26 "avoidpaste2.c"
+
+: : : - > - >
+:2: :22 22:

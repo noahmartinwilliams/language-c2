@@ -1,0 +1,3 @@
+01-parse gcc_pre/fp-int-convert-long-double.i succeeded (0.09 KLoC in 0.06 s,  1.45 KLoC / s)
+'../../bin/CParse' 'gcc_pre/fp-int-convert-long-double.i' +RTS '-t_stats.log' 
+<<ghc: 163716304 bytes, 158 GCs, 3284188/10211896 avg/max bytes residency (6 samples), 21M in use, 0.000 INIT (0.000 elapsed), 0.030 MUT (0.031 elapsed), 0.035 GC (0.035 elapsed) :ghc>>

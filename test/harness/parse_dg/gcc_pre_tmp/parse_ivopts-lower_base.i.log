@@ -1,0 +1,3 @@
+01-parse gcc_pre/ivopts-lower_base.i succeeded (1.47 KLoC in 8.04 ms,  182.69 KLoC / s)
+'../../bin/CParse' 'gcc_pre/ivopts-lower_base.i' +RTS '-t_stats.log' 
+<<ghc: 24660984 bytes, 24 GCs, 547338/1207408 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.005 MUT (0.006 elapsed), 0.004 GC (0.004 elapsed) :ghc>>

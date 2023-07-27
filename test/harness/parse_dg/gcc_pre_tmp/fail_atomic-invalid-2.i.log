@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/atomic-invalid-2.i succeeded
+    See result file: `gcc_pre_tmp/atomic-invalid-2342510-2.report'

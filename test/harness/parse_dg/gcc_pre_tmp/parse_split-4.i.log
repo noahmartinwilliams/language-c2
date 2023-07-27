@@ -1,0 +1,3 @@
+01-parse gcc_pre/split-4.i succeeded (1.78 KLoC in 8.20 ms,  216.61 KLoC / s)
+'../../bin/CParse' 'gcc_pre/split-4.i' +RTS '-t_stats.log' 
+<<ghc: 26389880 bytes, 26 GCs, 548298/1229768 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.005 MUT (0.006 elapsed), 0.004 GC (0.004 elapsed) :ghc>>

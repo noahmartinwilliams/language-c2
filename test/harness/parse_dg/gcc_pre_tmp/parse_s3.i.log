@@ -1,0 +1,3 @@
+01-parse gcc_pre/s3.i succeeded (1.01 KLoC in 4.37 ms,  230.01 KLoC / s)
+'../../bin/CParse' 'gcc_pre/s3.i' +RTS '-t_stats.log' 
+<<ghc: 14106000 bytes, 14 GCs, 188144/322256 avg/max bytes residency (2 samples), 3M in use, 0.000 INIT (0.000 elapsed), 0.003 MUT (0.003 elapsed), 0.002 GC (0.002 elapsed) :ghc>>

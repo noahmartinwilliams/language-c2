@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/stdatomic-load-4.i succeeded
+    See result file: `gcc_pre_tmp/stdatomic-load-4344319-2.report'

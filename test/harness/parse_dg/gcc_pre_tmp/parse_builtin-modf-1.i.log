@@ -1,0 +1,3 @@
+01-parse gcc_pre/builtin-modf-1.i succeeded (0.07 KLoC in 0.01 s,  6.06 KLoC / s)
+'../../bin/CParse' 'gcc_pre/builtin-modf-1.i' +RTS '-t_stats.log' 
+<<ghc: 24522080 bytes, 24 GCs, 1078856/2618408 avg/max bytes residency (4 samples), 6M in use, 0.000 INIT (0.000 elapsed), 0.006 MUT (0.006 elapsed), 0.006 GC (0.006 elapsed) :ghc>>

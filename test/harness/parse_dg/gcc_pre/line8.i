@@ -1,0 +1,16 @@
+# 1 "line8.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "line8.c"
+
+
+
+
+
+
+extern int x;
+# 24 ""
+extern char z[sizeof "" == 1];

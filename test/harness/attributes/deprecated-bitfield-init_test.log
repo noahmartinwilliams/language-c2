@@ -1,0 +1,7 @@
+@POS In function ‘main’:
+@POS warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+@POS note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+@POS warning: incompatible implicit declaration of built-in function ‘printf’ [-Wbuiltin-declaration-mismatch]
+@POS note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+@POS warning: ‘a’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here

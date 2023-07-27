@@ -1,0 +1,3 @@
+01-parse gcc_pre/c99-vla-jump-4.i succeeded (0.30 KLoC in 0.06 s,  4.73 KLoC / s)
+'../../bin/CParse' 'gcc_pre/c99-vla-jump-4.i' +RTS '-t_stats.log' 
+<<ghc: 158489696 bytes, 153 GCs, 3299825/10256272 avg/max bytes residency (6 samples), 21M in use, 0.000 INIT (0.000 elapsed), 0.028 MUT (0.029 elapsed), 0.036 GC (0.036 elapsed) :ghc>>

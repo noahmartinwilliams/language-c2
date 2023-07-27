@@ -1,0 +1,3 @@
+01-parse gcc_pre/fesd-none.i succeeded (0.10 KLoC in 1.10 ms,  88.57 KLoC / s)
+'../../bin/CParse' 'gcc_pre/fesd-none.i' +RTS '-t_stats.log' 
+<<ghc: 2659856 bytes, 3 GCs, 184120/314040 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.001 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

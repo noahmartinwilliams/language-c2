@@ -1,0 +1,3 @@
+01-parse gcc_pre/vshuf-v2di.i succeeded (0.06 KLoC in 6.56 ms,  8.99 KLoC / s)
+'../../bin/CParse' 'gcc_pre/vshuf-v2di.i' +RTS '-t_stats.log' 
+<<ghc: 49056392 bytes, 48 GCs, 138760/223296 avg/max bytes residency (2 samples), 3M in use, 0.000 INIT (0.000 elapsed), 0.005 MUT (0.006 elapsed), 0.002 GC (0.002 elapsed) :ghc>>

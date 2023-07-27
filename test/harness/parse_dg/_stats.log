@@ -1,0 +1,2 @@
+'../../bin/CParse' 'gcc_pre/Wunused.i' +RTS '-t_stats.log' 
+<<ghc: 1119728 bytes, 1 GCs, 101280/101280 avg/max bytes residency (1 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.001 elapsed), 0.000 GC (0.000 elapsed) :ghc>>

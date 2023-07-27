@@ -1,0 +1,3 @@
+01-parse gcc_pre/setjmp-2.i succeeded (2.00 KLoC in 8.63 ms,  232.23 KLoC / s)
+'../../bin/CParse' 'gcc_pre/setjmp-2.i' +RTS '-t_stats.log' 
+<<ghc: 26874280 bytes, 26 GCs, 527029/1173096 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.005 MUT (0.006 elapsed), 0.004 GC (0.004 elapsed) :ghc>>

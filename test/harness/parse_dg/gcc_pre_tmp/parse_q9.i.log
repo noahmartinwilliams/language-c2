@@ -1,0 +1,3 @@
+01-parse gcc_pre/q9.i succeeded (0.96 KLoC in 4.06 ms,  235.67 KLoC / s)
+'../../bin/CParse' 'gcc_pre/q9.i' +RTS '-t_stats.log' 
+<<ghc: 13341752 bytes, 13 GCs, 187768/321504 avg/max bytes residency (2 samples), 3M in use, 0.000 INIT (0.000 elapsed), 0.003 MUT (0.003 elapsed), 0.002 GC (0.002 elapsed) :ghc>>

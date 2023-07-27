@@ -1,0 +1,3 @@
+01-parse gcc_pre/fnptr-by-value-1_x.i succeeded (0.17 KLoC in 1.57 ms,  111.17 KLoC / s)
+'../../bin/CParse' 'gcc_pre/fnptr-by-value-1_x.i' +RTS '-t_stats.log' 
+<<ghc: 3911952 bytes, 4 GCs, 198456/342496 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

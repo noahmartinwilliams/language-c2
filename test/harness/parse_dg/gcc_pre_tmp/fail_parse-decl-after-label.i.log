@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/parse-decl-after-label.i succeeded
+    See result file: `gcc_pre_tmp/parse-decl-after-label343692-2.report'

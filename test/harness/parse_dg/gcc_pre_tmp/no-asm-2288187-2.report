@@ -1,0 +1,23 @@
+Failed to parse no-asm-2.c
+with message:
+Syntax error !The symbol `asm' does not fit here. ("no-asm-2.c": line 7)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "no-asm-2.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "no-asm-2.c"
+
+
+
+
+
+
+int asm;
+int inline;
+int typeof;

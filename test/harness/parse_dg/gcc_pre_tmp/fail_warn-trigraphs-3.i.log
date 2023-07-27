@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/warn-trigraphs-3.i succeeded
+    See result file: `gcc_pre_tmp/warn-trigraphs-3344694-2.report'

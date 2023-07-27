@@ -1,0 +1,3 @@
+01-parse gcc_pre/costmodel-slp-34.i succeeded (1.23 KLoC in 4.72 ms,  260.82 KLoC / s)
+'../../bin/CParse' 'gcc_pre/costmodel-slp-34.i' +RTS '-t_stats.log' 
+<<ghc: 15329360 bytes, 15 GCs, 161232/268096 avg/max bytes residency (2 samples), 3M in use, 0.000 INIT (0.000 elapsed), 0.004 MUT (0.004 elapsed), 0.002 GC (0.002 elapsed) :ghc>>

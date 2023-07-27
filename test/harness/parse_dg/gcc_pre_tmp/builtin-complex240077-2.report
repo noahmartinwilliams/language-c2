@@ -1,0 +1,24 @@
+Failed to parse builtin-complex.c
+with message:
+Syntax error !The symbol `a' does not fit here. ("builtin-complex.c": line 4)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "builtin-complex.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "builtin-complex.c"
+
+
+
+_Decimal32 a, b;
+
+void
+f (void)
+{
+  __builtin_complex (a, b);
+}

@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/declare-simd-1.i succeeded
+    See result file: `gcc_pre_tmp/declare-simd-1342991-2.report'

@@ -1,0 +1,3 @@
+01-parse gcc_pre/scev-cast.i succeeded (0.03 KLoC in 0.34 ms,  89.41 KLoC / s)
+'../../bin/CParse' 'gcc_pre/scev-cast.i' +RTS '-t_stats.log' 
+<<ghc: 1461360 bytes, 2 GCs, 54200/54200 avg/max bytes residency (1 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.001 elapsed), 0.000 GC (0.000 elapsed) :ghc>>

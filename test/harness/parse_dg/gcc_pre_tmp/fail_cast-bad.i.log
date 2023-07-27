@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/cast-bad.i succeeded
+    See result file: `gcc_pre_tmp/cast-bad342705-2.report'

@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/ssa-dse-10.i succeeded
+    See result file: `gcc_pre_tmp/ssa-dse-10344243-2.report'

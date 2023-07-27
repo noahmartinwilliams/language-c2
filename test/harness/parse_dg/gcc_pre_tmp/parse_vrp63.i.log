@@ -1,0 +1,3 @@
+01-parse gcc_pre/vrp63.i succeeded (0.35 KLoC in 2.19 ms,  160.88 KLoC / s)
+'../../bin/CParse' 'gcc_pre/vrp63.i' +RTS '-t_stats.log' 
+<<ghc: 5964504 bytes, 6 GCs, 191464/328824 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

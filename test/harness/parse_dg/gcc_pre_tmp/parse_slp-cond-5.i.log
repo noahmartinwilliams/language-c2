@@ -1,0 +1,3 @@
+01-parse gcc_pre/slp-cond-5.i succeeded (1.24 KLoC in 6.08 ms,  202.96 KLoC / s)
+'../../bin/CParse' 'gcc_pre/slp-cond-5.i' +RTS '-t_stats.log' 
+<<ghc: 16564368 bytes, 16 GCs, 565376/1306472 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.004 MUT (0.004 elapsed), 0.003 GC (0.003 elapsed) :ghc>>

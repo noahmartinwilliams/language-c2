@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/fltconst-double-pedantic-1.i succeeded
+    See result file: `gcc_pre_tmp/fltconst-double-pedantic-1343201-2.report'

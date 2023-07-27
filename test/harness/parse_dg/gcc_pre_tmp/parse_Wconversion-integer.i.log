@@ -1,0 +1,3 @@
+01-parse gcc_pre/Wconversion-integer.i succeeded (0.22 KLoC in 1.56 ms,  138.32 KLoC / s)
+'../../bin/CParse' 'gcc_pre/Wconversion-integer.i' +RTS '-t_stats.log' 
+<<ghc: 4632288 bytes, 5 GCs, 186800/319160 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

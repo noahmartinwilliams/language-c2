@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/label-compound-stmt-1.i succeeded
+    See result file: `gcc_pre_tmp/label-compound-stmt-1343372-2.report'

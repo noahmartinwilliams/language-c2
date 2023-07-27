@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/cast-lvalue-1.i succeeded
+    See result file: `gcc_pre_tmp/cast-lvalue-1342710-2.report'

@@ -1,0 +1,24 @@
+Failed to parse _Pragma4.c
+with message:
+Syntax error !The symbol `foo' does not fit here. ("_Pragma4.c": line 6)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "_Pragma4.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "_Pragma4.c"
+
+
+
+
+
+a foo
+# 6 "_Pragma4.c"
+#pragma bar
+# 6 "_Pragma4.c"
+ baz c

@@ -1,0 +1,31 @@
+Failed to parse c11-noreturn-5.c
+with message:
+Syntax error !The symbol `_Noreturn' does not fit here. ("c11-noreturn-5.c": line 13)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "c11-noreturn-5.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "c11-noreturn-5.c"
+
+
+
+
+_Noreturn struct s;
+
+typedef _Noreturn void f (void);
+
+void g (_Noreturn void fp (void));
+
+_Noreturn void (*p) (void);
+
+struct t { int a; _Noreturn void (*f) (void); };
+
+int *_Noreturn *q;
+
+int i = sizeof (_Noreturn int (*) (void));

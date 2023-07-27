@@ -1,0 +1,3 @@
+01-parse gcc_pre/builtin-logb-1.i succeeded (0.13 KLoC in 0.01 s,  10.39 KLoC / s)
+'../../bin/CParse' 'gcc_pre/builtin-logb-1.i' +RTS '-t_stats.log' 
+<<ghc: 32799664 bytes, 32 GCs, 1100650/2636760 avg/max bytes residency (4 samples), 6M in use, 0.000 INIT (0.000 elapsed), 0.007 MUT (0.007 elapsed), 0.007 GC (0.007 elapsed) :ghc>>

@@ -1,0 +1,3 @@
+01-parse gcc_pre/cmn-err-1.i succeeded (0.12 KLoC in 1.45 ms,  85.31 KLoC / s)
+'../../bin/CParse' 'gcc_pre/cmn-err-1.i' +RTS '-t_stats.log' 
+<<ghc: 3672664 bytes, 4 GCs, 173032/291864 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

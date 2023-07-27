@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/c11-atomic-exec-3.i succeeded
+    See result file: `gcc_pre_tmp/c11-atomic-exec-3342625-2.report'

@@ -1,0 +1,3 @@
+01-parse gcc_pre/optimize-bswapdi-3.i succeeded (0.19 KLoC in 1.57 ms,  120.08 KLoC / s)
+'../../bin/CParse' 'gcc_pre/optimize-bswapdi-3.i' +RTS '-t_stats.log' 
+<<ghc: 4343720 bytes, 4 GCs, 208372/362328 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

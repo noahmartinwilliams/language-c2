@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/location-overflow-test-1.i succeeded
+    See result file: `gcc_pre_tmp/location-overflow-test-1343397-2.report'

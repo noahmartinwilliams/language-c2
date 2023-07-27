@@ -1,0 +1,3 @@
+01-parse gcc_pre/speculative-store-3.i succeeded (2.00 KLoC in 8.74 ms,  228.60 KLoC / s)
+'../../bin/CParse' 'gcc_pre/speculative-store-3.i' +RTS '-t_stats.log' 
+<<ghc: 28250608 bytes, 27 GCs, 525698/1177304 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.005 MUT (0.006 elapsed), 0.004 GC (0.004 elapsed) :ghc>>

@@ -1,0 +1,3 @@
+01-parse gcc_pre/cleanup-9.i succeeded (2.39 KLoC in 0.01 s,  195.57 KLoC / s)
+'../../bin/CParse' 'gcc_pre/cleanup-9.i' +RTS '-t_stats.log' 
+<<ghc: 34535656 bytes, 33 GCs, 990814/2374224 avg/max bytes residency (4 samples), 6M in use, 0.000 INIT (0.000 elapsed), 0.007 MUT (0.007 elapsed), 0.007 GC (0.007 elapsed) :ghc>>

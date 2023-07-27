@@ -1,0 +1,3 @@
+01-parse gcc_pre/strp2.i succeeded (1.44 KLoC in 7.89 ms,  182.44 KLoC / s)
+'../../bin/CParse' 'gcc_pre/strp2.i' +RTS '-t_stats.log' 
+<<ghc: 23696064 bytes, 23 GCs, 545349/1224944 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.006 MUT (0.024 elapsed), 0.004 GC (0.004 elapsed) :ghc>>

@@ -1,0 +1,3 @@
+01-parse gcc_pre/c99-tgmath-1.i succeeded (1.28 KLoC in 0.01 s,  114.02 KLoC / s)
+'../../bin/CParse' 'gcc_pre/c99-tgmath-1.i' +RTS '-t_stats.log' 
+<<ghc: 35606552 bytes, 34 GCs, 1031092/2471952 avg/max bytes residency (4 samples), 6M in use, 0.000 INIT (0.000 elapsed), 0.006 MUT (0.006 elapsed), 0.006 GC (0.006 elapsed) :ghc>>

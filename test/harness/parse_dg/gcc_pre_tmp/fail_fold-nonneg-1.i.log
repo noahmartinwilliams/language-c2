@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/fold-nonneg-1.i succeeded
+    See result file: `gcc_pre_tmp/fold-nonneg-1343216-2.report'

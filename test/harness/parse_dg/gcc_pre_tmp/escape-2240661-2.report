@@ -1,0 +1,20 @@
+Failed to parse escape-2.c
+with message:
+Lexical Error !Universal character names are unsupported ("escape-2.c": line 19)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "escape-2.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "escape-2.c"
+# 16 "escape-2.c"
+void foo ()
+{
+  int c = '\E';
+  c = L'\u00a0';
+}

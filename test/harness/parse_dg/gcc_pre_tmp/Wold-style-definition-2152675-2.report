@@ -1,0 +1,24 @@
+Failed to parse Wold-style-definition-2.c
+with message:
+Syntax error !The symbol `...' does not fit here. ("Wold-style-definition-2.c": line 8)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "Wold-style-definition-2.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "Wold-style-definition-2.c"
+
+
+
+
+
+
+
+void bar1 ( ... ) {}
+
+void bar2 (int a, ... ) {}

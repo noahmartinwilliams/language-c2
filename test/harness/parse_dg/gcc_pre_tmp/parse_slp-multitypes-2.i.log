@@ -1,0 +1,3 @@
+01-parse gcc_pre/slp-multitypes-2.i succeeded (1.24 KLoC in 4.76 ms,  260.51 KLoC / s)
+'../../bin/CParse' 'gcc_pre/slp-multitypes-2.i' +RTS '-t_stats.log' 
+<<ghc: 15787480 bytes, 15 GCs, 161192/268016 avg/max bytes residency (2 samples), 3M in use, 0.000 INIT (0.000 elapsed), 0.004 MUT (0.004 elapsed), 0.002 GC (0.002 elapsed) :ghc>>

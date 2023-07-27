@@ -1,0 +1,3 @@
+01-parse gcc_pre/c99-printf-1.i succeeded (0.28 KLoC in 2.51 ms,  109.39 KLoC / s)
+'../../bin/CParse' 'gcc_pre/c99-printf-1.i' +RTS '-t_stats.log' 
+<<ghc: 7706736 bytes, 8 GCs, 174124/293976 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

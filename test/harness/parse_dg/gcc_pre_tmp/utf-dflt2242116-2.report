@@ -1,0 +1,26 @@
+Failed to parse utf-dflt2.c
+with message:
+Syntax error !The symbol `"a"' does not fit here. ("utf-dflt2.c": line 5)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "utf-dflt2.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "utf-dflt2.c"
+
+
+
+
+const void *s0 = u8"a";
+
+
+
+
+const void *s1 = u8"a";
+
+int main () {}

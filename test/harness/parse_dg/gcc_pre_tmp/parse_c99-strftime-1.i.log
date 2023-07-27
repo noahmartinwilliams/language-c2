@@ -1,0 +1,3 @@
+01-parse gcc_pre/c99-strftime-1.i succeeded (0.18 KLoC in 1.87 ms,  97.25 KLoC / s)
+'../../bin/CParse' 'gcc_pre/c99-strftime-1.i' +RTS '-t_stats.log' 
+<<ghc: 5557216 bytes, 6 GCs, 168756/292896 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

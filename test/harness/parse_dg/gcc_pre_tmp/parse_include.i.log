@@ -1,0 +1,3 @@
+01-parse gcc_pre/include.i succeeded (1.16 KLoC in 6.00 ms,  193.52 KLoC / s)
+'../../bin/CParse' 'gcc_pre/include.i' +RTS '-t_stats.log' 
+<<ghc: 17910872 bytes, 17 GCs, 539136/1216336 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.004 MUT (0.004 elapsed), 0.003 GC (0.003 elapsed) :ghc>>

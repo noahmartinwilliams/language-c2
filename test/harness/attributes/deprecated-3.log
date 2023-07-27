@@ -1,0 +1,3 @@
+@POS In function ‘f’:
+@POS warning: ‘func’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here

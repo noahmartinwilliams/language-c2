@@ -1,0 +1,3 @@
+01-parse gcc_pre/builtins-54.i succeeded (0.15 KLoC in 1.63 ms,  93.23 KLoC / s)
+'../../bin/CParse' 'gcc_pre/builtins-54.i' +RTS '-t_stats.log' 
+<<ghc: 4307040 bytes, 4 GCs, 201804/349360 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

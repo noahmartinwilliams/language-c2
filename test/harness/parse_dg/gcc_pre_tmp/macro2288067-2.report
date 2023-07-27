@@ -1,0 +1,16 @@
+Failed to parse macro2.c
+with message:
+Syntax error !The symbol `Something' does not fit here. ("macro2.c": line 14)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "macro2.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "macro2.c"
+# 14 "macro2.c"
+Something

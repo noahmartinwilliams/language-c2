@@ -1,0 +1,8 @@
+Tag: struct _s {x :: int; y :: int;} ("bad_sinit1.c": line 1)
+Typedef: typedef s as struct _s ("bad_sinit1.c": line 1)
+Decl: object s1 | static/external | s = { .y = 2, 1 } ("bad_sinit1.c": line 6)
+ScanFile: Semantic Error: [bad_sinit1.c:6: (column 18) [ERROR]  >>> AST invariant violated
+  excess elements in initializer
+]
+CallStack (from HasCallStack):
+  error, called at ScanFile.hs:61:27 in main:Main

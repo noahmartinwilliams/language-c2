@@ -1,0 +1,20 @@
+Failed to parse quote.c
+with message:
+Lexical error !The character '\'' does not fit here. ("quote.c": line 5)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "quote.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "quote.c"
+
+
+
+
+                                   'x
+                                   "x

@@ -1,0 +1,27 @@
+# 1 "pr56264.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "pr56264.c"
+
+
+
+int a, b, c;
+
+void f(void)
+{
+  if(b)
+    {
+      for(a = 0; a < 1; a++)
+ lbl:
+     c = c && b ? : 0;
+
+      c = 0;
+      goto lbl;
+    }
+
+  if(a)
+    goto lbl;
+}

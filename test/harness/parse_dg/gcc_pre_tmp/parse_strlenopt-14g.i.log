@@ -1,0 +1,3 @@
+01-parse gcc_pre/strlenopt-14g.i succeeded (0.14 KLoC in 1.58 ms,  86.95 KLoC / s)
+'../../bin/CParse' 'gcc_pre/strlenopt-14g.i' +RTS '-t_stats.log' 
+<<ghc: 3726240 bytes, 4 GCs, 196672/339048 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

@@ -1,0 +1,3 @@
+01-parse gcc_pre/atomic-compare-exchange-5.i succeeded (0.09 KLoC in 0.70 ms,  123.74 KLoC / s)
+'../../bin/CParse' 'gcc_pre/atomic-compare-exchange-5.i' +RTS '-t_stats.log' 
+<<ghc: 2499624 bytes, 3 GCs, 155604/256592 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.002 elapsed), 0.000 GC (0.000 elapsed) :ghc>>

@@ -1,0 +1,3 @@
+01-parse gcc_pre/bf-ms-layout.i succeeded (0.44 KLoC in 3.28 ms,  135.54 KLoC / s)
+'../../bin/CParse' 'gcc_pre/bf-ms-layout.i' +RTS '-t_stats.log' 
+<<ghc: 10173448 bytes, 10 GCs, 162196/270120 avg/max bytes residency (2 samples), 3M in use, 0.000 INIT (0.000 elapsed), 0.003 MUT (0.003 elapsed), 0.001 GC (0.002 elapsed) :ghc>>

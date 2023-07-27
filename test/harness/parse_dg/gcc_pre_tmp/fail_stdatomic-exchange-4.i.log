@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/stdatomic-exchange-4.i succeeded
+    See result file: `gcc_pre_tmp/stdatomic-exchange-4344283-2.report'

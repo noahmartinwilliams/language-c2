@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/Wunsuffixed-float-constants-1.i succeeded
+    See result file: `gcc_pre_tmp/Wunsuffixed-float-constants-1344765-2.report'

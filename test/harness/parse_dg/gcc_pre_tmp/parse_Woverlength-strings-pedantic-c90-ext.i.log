@@ -1,0 +1,3 @@
+01-parse gcc_pre/Woverlength-strings-pedantic-c90-ext.i succeeded (0.02 KLoC in 0.02 s,  0.97 KLoC / s)
+'../../bin/CParse' 'gcc_pre/Woverlength-strings-pedantic-c90-ext.i' +RTS '-t_stats.log' 
+<<ghc: 213826688 bytes, 209 GCs, 130000/205152 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.016 MUT (0.016 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

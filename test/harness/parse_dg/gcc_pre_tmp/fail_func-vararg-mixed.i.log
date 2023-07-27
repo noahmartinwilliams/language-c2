@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/func-vararg-mixed.i succeeded
+    See result file: `gcc_pre_tmp/func-vararg-mixed343266-2.report'

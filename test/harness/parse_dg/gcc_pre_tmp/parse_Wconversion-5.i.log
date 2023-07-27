@@ -1,0 +1,3 @@
+01-parse gcc_pre/Wconversion-5.i succeeded (0.04 KLoC in 0.59 ms,  71.06 KLoC / s)
+'../../bin/CParse' 'gcc_pre/Wconversion-5.i' +RTS '-t_stats.log' 
+<<ghc: 1727936 bytes, 2 GCs, 54296/54296 avg/max bytes residency (1 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.001 elapsed), 0.000 GC (0.000 elapsed) :ghc>>

@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/stdatomic-compare-exchange-3.i succeeded
+    See result file: `gcc_pre_tmp/stdatomic-compare-exchange-3344258-2.report'

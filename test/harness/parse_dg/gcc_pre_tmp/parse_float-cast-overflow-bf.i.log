@@ -1,0 +1,3 @@
+01-parse gcc_pre/float-cast-overflow-bf.i succeeded (0.04 KLoC in 1.31 ms,  32.13 KLoC / s)
+'../../bin/CParse' 'gcc_pre/float-cast-overflow-bf.i' +RTS '-t_stats.log' 
+<<ghc: 3283560 bytes, 3 GCs, 214408/374304 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

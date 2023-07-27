@@ -1,0 +1,3 @@
+01-parse gcc_pre/vect-105.i succeeded (2.05 KLoC in 8.91 ms,  230.07 KLoC / s)
+'../../bin/CParse' 'gcc_pre/vect-105.i' +RTS '-t_stats.log' 
+<<ghc: 28416880 bytes, 28 GCs, 546256/1232040 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.006 MUT (0.006 elapsed), 0.004 GC (0.004 elapsed) :ghc>>

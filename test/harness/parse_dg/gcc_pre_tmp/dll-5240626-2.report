@@ -1,0 +1,32 @@
+Failed to parse dll-5.c
+with message:
+Syntax error !The symbol `__declspec' does not fit here. ("dll-5.c": line 11)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "dll-5.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "dll-5.c"
+
+
+
+
+
+
+
+__declspec (dllimport) void dllimpfn ();
+
+
+__declspec (dllimport) int dllimpvar;
+
+
+__declspec (dllexport) void dllexp ()
+{
+  dllimpfn ();
+  dllimpvar = 0;
+}

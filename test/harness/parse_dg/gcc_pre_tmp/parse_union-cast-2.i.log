@@ -1,0 +1,3 @@
+01-parse gcc_pre/union-cast-2.i succeeded (0.02 KLoC in 0.42 ms,  52.00 KLoC / s)
+'../../bin/CParse' 'gcc_pre/union-cast-2.i' +RTS '-t_stats.log' 
+<<ghc: 1176704 bytes, 1 GCs, 91976/91976 avg/max bytes residency (1 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.010 elapsed), 0.000 GC (0.000 elapsed) :ghc>>

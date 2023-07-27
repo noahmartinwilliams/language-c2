@@ -1,0 +1,3 @@
+01-parse gcc_pre/pr48542.i succeeded (1.32 KLoC in 6.52 ms,  201.73 KLoC / s)
+'../../bin/CParse' 'gcc_pre/pr48542.i' +RTS '-t_stats.log' 
+<<ghc: 19566168 bytes, 19 GCs, 540992/1218808 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.004 MUT (0.005 elapsed), 0.003 GC (0.003 elapsed) :ghc>>

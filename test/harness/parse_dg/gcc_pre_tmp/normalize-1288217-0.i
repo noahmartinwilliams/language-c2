@@ -1,0 +1,41 @@
+# 1 "normalize-1.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "normalize-1.c"
+
+
+
+\U000000aa
+\U000000b7
+\U00000f43
+a\U000005b8\U000005b9\U000005b9\U000005bbb
+ a\U000005bb\U000005b9\U000005b8\U000005b9b
+\U000009cb
+\U000009c7\U000009be
+\U00000b4b
+\U00000b47\U00000b3e
+\U00000bca
+\U00000bc6\U00000bbe
+\U00000bcb
+\U00000bc7\U00000bbe
+\U00000cca
+\U00000cc6\U00000cc2
+\U00000d4a
+\U00000d46\U00000d3e
+\U00000d4b
+\U00000d47\U00000d3e
+
+K
+\U0000212a
+
+\U000003ac
+\U00001f71
+
+\U0000ac00
+\U00001100\U00001161
+\U0000ac01
+\U00001100\U00001161\U000011a8
+\U0000ac00\U000011a8

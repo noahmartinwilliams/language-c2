@@ -1,0 +1,3 @@
+01-parse gcc_pre/builtin-rounding-1.i succeeded (0.12 KLoC in 5.55 ms,  21.45 KLoC / s)
+'../../bin/CParse' 'gcc_pre/builtin-rounding-1.i' +RTS '-t_stats.log' 
+<<ghc: 14703800 bytes, 14 GCs, 581696/1333288 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.003 MUT (0.004 elapsed), 0.003 GC (0.003 elapsed) :ghc>>

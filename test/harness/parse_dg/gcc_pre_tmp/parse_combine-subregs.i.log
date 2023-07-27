@@ -1,0 +1,3 @@
+01-parse gcc_pre/combine-subregs.i succeeded (1.28 KLoC in 6.33 ms,  202.43 KLoC / s)
+'../../bin/CParse' 'gcc_pre/combine-subregs.i' +RTS '-t_stats.log' 
+<<ghc: 19230128 bytes, 19 GCs, 521989/1183960 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.004 MUT (0.004 elapsed), 0.003 GC (0.003 elapsed) :ghc>>

@@ -1,0 +1,3 @@
+01-parse gcc_pre/builtin-convert-3.i succeeded (0.60 KLoC in 2.46 ms,  244.20 KLoC / s)
+'../../bin/CParse' 'gcc_pre/builtin-convert-3.i' +RTS '-t_stats.log' 
+<<ghc: 8183120 bytes, 8 GCs, 191820/329248 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

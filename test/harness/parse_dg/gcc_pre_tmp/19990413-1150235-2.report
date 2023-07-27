@@ -1,0 +1,27 @@
+Failed to parse 19990413-1.c
+with message:
+Syntax error !The symbol `else' does not fit here. ("19990413-1.c": line 12)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "19990413-1.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "19990413-1.c"
+
+
+
+
+
+
+void
+func(void)
+{
+ 
+
+  else;
+}

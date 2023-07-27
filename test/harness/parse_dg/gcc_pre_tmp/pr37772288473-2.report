@@ -1,0 +1,34 @@
+Failed to parse pr37772.c
+with message:
+Syntax error !The symbol `)' does not fit here. ("pr37772.c": line 9)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "pr37772.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "pr37772.c"
+
+
+
+
+void
+foo ()
+{
+  int i;
+  asm ();
+  asm (1);
+  asm (int);
+  asm (: "=r" (i));
+  asm (1 : "=r" (i));
+  asm (int : "=r" (i));
+  asm (: : "r" (i));
+  asm (1 : : "r" (i));
+  asm (int : : "r" (i));
+  asm (: : : "memory");
+  asm (1 : : : "memory");
+}

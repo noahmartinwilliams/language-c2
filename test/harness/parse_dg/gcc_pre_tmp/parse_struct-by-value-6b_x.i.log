@@ -1,0 +1,3 @@
+01-parse gcc_pre/struct-by-value-6b_x.i succeeded (0.06 KLoC in 0.01 s,  5.05 KLoC / s)
+'../../bin/CParse' 'gcc_pre/struct-by-value-6b_x.i' +RTS '-t_stats.log' 
+<<ghc: 28942104 bytes, 28 GCs, 1156682/2847200 avg/max bytes residency (4 samples), 7M in use, 0.000 INIT (0.000 elapsed), 0.006 MUT (0.006 elapsed), 0.007 GC (0.007 elapsed) :ghc>>

@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/muldiv-warning.i succeeded
+    See result file: `gcc_pre_tmp/muldiv-warning343562-2.report'

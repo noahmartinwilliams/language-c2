@@ -1,0 +1,3 @@
+01-parse gcc_pre/vect-105-big-array.i succeeded (2.08 KLoC in 9.11 ms,  228.67 KLoC / s)
+'../../bin/CParse' 'gcc_pre/vect-105-big-array.i' +RTS '-t_stats.log' 
+<<ghc: 28854864 bytes, 28 GCs, 550053/1231880 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.006 MUT (0.006 elapsed), 0.004 GC (0.004 elapsed) :ghc>>

@@ -1,0 +1,3 @@
+01-parse gcc_pre/split-path-6.i succeeded (0.08 KLoC in 0.70 ms,  110.03 KLoC / s)
+'../../bin/CParse' 'gcc_pre/split-path-6.i' +RTS '-t_stats.log' 
+<<ghc: 2021128 bytes, 2 GCs, 54272/54272 avg/max bytes residency (1 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.001 elapsed), 0.000 GC (0.000 elapsed) :ghc>>

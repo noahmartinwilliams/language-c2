@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/stdatomic-store-1.i succeeded
+    See result file: `gcc_pre_tmp/stdatomic-store-1344324-2.report'

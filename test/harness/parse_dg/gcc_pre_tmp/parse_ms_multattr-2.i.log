@@ -1,0 +1,3 @@
+01-parse gcc_pre/ms_multattr-2.i succeeded (0.12 KLoC in 1.41 ms,  88.41 KLoC / s)
+'../../bin/CParse' 'gcc_pre/ms_multattr-2.i' +RTS '-t_stats.log' 
+<<ghc: 3787528 bytes, 4 GCs, 172960/291624 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

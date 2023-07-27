@@ -1,0 +1,3 @@
+01-parse gcc_pre/ipa-icf-13.i succeeded (2.06 KLoC in 9.16 ms,  224.99 KLoC / s)
+'../../bin/CParse' 'gcc_pre/ipa-icf-13.i' +RTS '-t_stats.log' 
+<<ghc: 29015832 bytes, 28 GCs, 550296/1233296 avg/max bytes residency (3 samples), 4M in use, 0.000 INIT (0.000 elapsed), 0.006 MUT (0.006 elapsed), 0.004 GC (0.005 elapsed) :ghc>>

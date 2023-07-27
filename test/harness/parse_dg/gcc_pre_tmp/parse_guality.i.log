@@ -1,0 +1,3 @@
+01-parse gcc_pre/guality.i succeeded (3.65 KLoC in 0.02 s,  219.57 KLoC / s)
+'../../bin/CParse' 'gcc_pre/guality.i' +RTS '-t_stats.log' 
+<<ghc: 51349720 bytes, 50 GCs, 986196/2337536 avg/max bytes residency (4 samples), 6M in use, 0.000 INIT (0.000 elapsed), 0.009 MUT (0.010 elapsed), 0.008 GC (0.008 elapsed) :ghc>>

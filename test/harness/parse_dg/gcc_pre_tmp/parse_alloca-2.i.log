@@ -1,0 +1,3 @@
+01-parse gcc_pre/alloca-2.i succeeded (4.52 KLoC in 0.03 s,  160.52 KLoC / s)
+'../../bin/CParse' 'gcc_pre/alloca-2.i' +RTS '-t_stats.log' 
+<<ghc: 79780520 bytes, 77 GCs, 1864321/5079488 avg/max bytes residency (5 samples), 11M in use, 0.000 INIT (0.000 elapsed), 0.014 MUT (0.014 elapsed), 0.016 GC (0.016 elapsed) :ghc>>

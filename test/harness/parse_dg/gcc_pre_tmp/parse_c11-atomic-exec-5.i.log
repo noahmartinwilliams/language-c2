@@ -1,0 +1,3 @@
+01-parse gcc_pre/c11-atomic-exec-5.i succeeded (9.00 KLoC in 0.07 s,  123.33 KLoC / s)
+'../../bin/CParse' 'gcc_pre/c11-atomic-exec-5.i' +RTS '-t_stats.log' 
+<<ghc: 208567752 bytes, 201 GCs, 3292270/10126136 avg/max bytes residency (6 samples), 21M in use, 0.000 INIT (0.000 elapsed), 0.039 MUT (0.040 elapsed), 0.037 GC (0.036 elapsed) :ghc>>

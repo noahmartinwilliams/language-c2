@@ -1,0 +1,3 @@
+01-parse gcc_pre/remref-1a.i succeeded (0.04 KLoC in 0.26 ms,  141.10 KLoC / s)
+'../../bin/CParse' 'gcc_pre/remref-1a.i' +RTS '-t_stats.log' 
+<<ghc: 1279328 bytes, 1 GCs, 91760/91760 avg/max bytes residency (1 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.001 elapsed), 0.000 GC (0.000 elapsed) :ghc>>

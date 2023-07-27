@@ -1,0 +1,18 @@
+Failed to parse warn-normalized-2.c
+with message:
+Lexical error !The character '\\' does not fit here. ("warn-normalized-2.c": line 4)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "warn-normalized-2.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "warn-normalized-2.c"
+
+
+
+\U000000aa

@@ -1,0 +1,18 @@
+Failed to parse warn-trigraphs-3.c
+with message:
+Syntax error !The symbol `?' does not fit here. ("warn-trigraphs-3.c": line 4)
+/* No Input */
+Working dir: /home/noah/src/package-sources/language-c/test/harness/parse_dg
+Preprocessed input follows:
+
+# 1 "warn-trigraphs-3.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 31 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 32 "<command-line>" 2
+# 1 "warn-trigraphs-3.c"
+
+
+
+??=

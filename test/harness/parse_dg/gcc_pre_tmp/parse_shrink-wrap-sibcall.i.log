@@ -1,0 +1,3 @@
+01-parse gcc_pre/shrink-wrap-sibcall.i succeeded (0.03 KLoC in 0.33 ms,  100.44 KLoC / s)
+'../../bin/CParse' 'gcc_pre/shrink-wrap-sibcall.i' +RTS '-t_stats.log' 
+<<ghc: 1434504 bytes, 2 GCs, 44616/44616 avg/max bytes residency (1 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.001 MUT (0.001 elapsed), 0.000 GC (0.000 elapsed) :ghc>>

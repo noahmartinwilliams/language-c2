@@ -1,0 +1,38 @@
+@POS warning: ‘INT1’ is deprecated [-Wdeprecated-declarations]
+@POS warning: ‘INT1’ is deprecated [-Wdeprecated-declarations]
+@POS warning: ‘INT1’ is deprecated [-Wdeprecated-declarations]
+@POS warning: ‘INT2’ is deprecated [-Wdeprecated-declarations]
+@POS warning: ‘INT2’ is deprecated [-Wdeprecated-declarations]
+@POS warning: ‘INT2’ is deprecated [-Wdeprecated-declarations]
+@POS warning: ‘Color’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS In function ‘func1’:
+@POS warning: ‘INT1’ is deprecated [-Wdeprecated-declarations]
+@POS warning: ‘f1’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS warning: ‘x’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS warning: ‘y’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS warning: ‘g2’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS warning: ‘g3’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS warning: ‘f1’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS In function ‘func2’:
+@POS warning: ‘field2’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS warning: ‘field4’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS warning: ‘u2’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS warning: ‘field6’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS warning: ‘field8’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here
+@POS At top level:
+@POS warning: ‘INT1’ is deprecated [-Wdeprecated-declarations]
+@POS warning: ‘INT1’ is deprecated [-Wdeprecated-declarations]
+@POS warning: ‘SS2’ is deprecated [-Wdeprecated-declarations]
+@POS note: declared here

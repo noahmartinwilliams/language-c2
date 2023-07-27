@@ -1,0 +1,3 @@
+01-parse gcc_pre/sequence-pt-1.i succeeded (0.12 KLoC in 1.61 ms,  71.99 KLoC / s)
+'../../bin/CParse' 'gcc_pre/sequence-pt-1.i' +RTS '-t_stats.log' 
+<<ghc: 3727024 bytes, 4 GCs, 208192/362088 avg/max bytes residency (2 samples), 2M in use, 0.000 INIT (0.000 elapsed), 0.002 MUT (0.002 elapsed), 0.001 GC (0.001 elapsed) :ghc>>

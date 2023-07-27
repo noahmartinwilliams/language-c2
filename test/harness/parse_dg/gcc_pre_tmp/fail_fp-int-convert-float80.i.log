@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/fp-int-convert-float80.i succeeded
+    See result file: `gcc_pre_tmp/fp-int-convert-float80343226-2.report'

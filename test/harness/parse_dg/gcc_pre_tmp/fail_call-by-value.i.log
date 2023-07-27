@@ -1,0 +1,2 @@
+01-fail-parse gcc_pre/call-by-value.i succeeded
+    See result file: `gcc_pre_tmp/call-by-value342700-2.report'

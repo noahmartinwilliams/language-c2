@@ -1,0 +1,3 @@
+01-parse gcc_pre/vect-iv-8a-big-array.i succeeded (1.20 KLoC in 4.32 ms,  277.98 KLoC / s)
+'../../bin/CParse' 'gcc_pre/vect-iv-8a-big-array.i' +RTS '-t_stats.log' 
+<<ghc: 14430312 bytes, 14 GCs, 161328/268192 avg/max bytes residency (2 samples), 3M in use, 0.000 INIT (0.000 elapsed), 0.003 MUT (0.003 elapsed), 0.002 GC (0.002 elapsed) :ghc>>
