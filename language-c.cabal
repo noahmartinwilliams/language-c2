@@ -1,16 +1,15 @@
-cabal-version:   2.2
-name:            language-c
-version:         0.10.0
-license:         BSD-3-Clause
-license-file:    LICENSE
-copyright:       LICENSE
-maintainer:      language.c@monoid.al
-author:          AUTHORS
-tested-with:
-    ghc ==9.10.1
-    ghc ==9.8.2 ghc ==9.6.6 ghc ==9.4.8 ghc ==9.2.8 ghc ==9.0.2
-    ghc ==8.10.7 ghc ==8.8.4 ghc ==8.6.5 ghc ==8.4.4 ghc ==8.2.2
-    ghc ==8.0.2
+Name:           language-c
+Version:        0.10.0
+Cabal-Version:  >= 1.10
+Build-Type:     Simple
+License:        BSD3
+License-File:   LICENSE
+Copyright:      LICENSE
+Author:         AUTHORS
+Maintainer:     language.c@monoid.al
+Stability:      experimental
+Homepage:       http://visq.github.io/language-c/
+Bug-reports:    https://github.com/visq/language-c/issues/
 
 homepage:        https://visq.github.io/language-c/
 bug-reports:     https://github.com/visq/language-c/issues/
