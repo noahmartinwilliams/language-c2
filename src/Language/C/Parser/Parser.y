@@ -133,7 +133,7 @@ import Language.C.Syntax
 %monad { P } { >>= } { return }
 %lexer { lexC } { CTokEof }
 
-%expect 1
+%expect 3
 
 %token
 
@@ -1148,6 +1148,7 @@ struct_declaration_list
   : {- empty -}						{ RList.empty }
   | struct_declaration_list ';'				{ $1 }
   | struct_declaration_list struct_declaration		{ $1 `RList.snoc` $2 }
+  | struct_declaration_list alignment_specifier struct_declaration		{ $1 `RList.snoc` (let (CDecl list list2 a) = $3 in CDecl ((CAlignSpec $2) : list) list2 a ) }
 
 
 -- parse C structure declaration (C99 6.7.2.1)
