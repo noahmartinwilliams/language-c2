@@ -1147,8 +1147,8 @@ struct_declaration_list :: { Reversed [CDecl] }
 struct_declaration_list
   : {- empty -}						{ RList.empty }
   | struct_declaration_list ';'				{ $1 }
-  | struct_declaration_list struct_declaration		{ $1 `snoc` ( if ( containsAlign $1 ) then ( addAlign $2 ( getAlign $1 ) ) else $2 ) }
-  | struct_declaration_list alignment_specifier struct_declaration		{ $1 `snoc` ( addAlign $3 $2 )}
+  | struct_declaration_list struct_declaration		{ $1 `RList.snoc` ( if ( containsAlign $1 ) then ( addAlign $2 ( getAlign $1 ) ) else $2 ) }
+  | struct_declaration_list alignment_specifier struct_declaration		{ $1 `RList.snoc` ( addAlign $3 $2 )}
 
 
 -- parse C structure declaration (C99 6.7.2.1)
